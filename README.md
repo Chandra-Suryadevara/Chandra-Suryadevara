@@ -1,6 +1,3 @@
-# 💫 About Me:
-# Hi, I'm Chandra Shekar Suryadevara 👋<br><br>Welcome to my GitHub profile! I'm passionate about robotics, deep learning, electronics, and quantum computing. Here's a bit about me:<br><br>- 🔭 I’m currently working on **AI-based plant pathogen detection**, **robotics projects**, and **quantum algorithms for flight scheduling optimization**<br>- 🌱 I’m learning more about **computer vision, microcontrollers, functional programming**, and **quantum computing**<br>- 👯 I’m looking to collaborate on projects involving **Python, C++, AI**, and **quantum computing**<br>- 🤔 I’m open to helping with **ROS, robotics, circuit design**, and **quantum algorithms**<br>- 📫 How to reach me: [email@example.com](mailto:email@example.com)<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandra-shekar-suraydevara/) 
